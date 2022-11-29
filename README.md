@@ -15,4 +15,4 @@ Styling is not needed for this assignment
 ![README example](readme-example.png)
 
 ## Result
-(result.png)
+![result](result.png)
