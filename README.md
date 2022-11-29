@@ -13,3 +13,6 @@ Edit the codes in `index.html` and create a webpage to introduce yourself simila
 Styling is not needed for this assignment
 4. Deploy your code base into any hosting platform of your choice. Rewrite README file to describe your project with few more details.
 ![README example](readme-example.png)
+
+## Result
+(resul.png)
