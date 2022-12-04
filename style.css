@@ -1,0 +1,11 @@
+input:focus {
+    outline: 2px solid blue;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
