@@ -16,12 +16,18 @@
         <li role="tab" aria-controls="panel2" aria-selected="false">
             Tab2
         </li>
-        <li role="tab" aria-controls="panel2" aria-selected="true">
+        <li role="tab" aria-controls="panel2" aria-selected="false">
             Tab3
         </li>
     </ol>
-    <div role="tabpanel" id="panel1">
+    <div role="tabpanel" id="panel1" aria-labelledby="tab1">
         <p>Panel 1</p>
+    </div>
+    <div class="hidden" role="tabpanel" id="panel2" aria-labelledby="tab2">
+        <p>Pane 2</p>
+    </div>
+    <div class="hidden" role="tabpanel" id="panel3" aria-labelledby="tab3">
+        <p>Panel 3</p>
     </div>
 </body>
 
