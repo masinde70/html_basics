@@ -20,6 +20,6 @@ body>p {
 }
 
 #long {
-    z-index: relative;
+    clear: both;
     background-color: lightyellow;
 }
