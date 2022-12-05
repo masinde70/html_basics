@@ -1,0 +1,25 @@
+p {
+    font-size: 1.75rem;
+    margin: 1.5rem;
+    padding: 1rem;
+    border: 2px solid black;
+}
+
+body>p {
+    background-color: lightblue;
+}
+
+#box {
+    float: left;
+    top: 20px;
+    left: 100px;
+    width: 15rem;
+    height: 10rem;
+    border: 2px solid black;
+    background-color: lightgreen;
+}
+
+#long {
+    z-index: relative;
+    background-color: lightyellow;
+}
